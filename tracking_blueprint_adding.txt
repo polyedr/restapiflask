@@ -1,0 +1,22 @@
+http://flask.pocoo.org/docs/1.0/tutorial/views/
+http://exploreflask.com/en/latest/blueprints.html
+https://danidee10.github.io/2016/11/20/flask-by-example-8.html
+Мега-Учебник Flask, Часть XV: Улучшение структуры приложения
+https://habr.com/ru/post/351218/
+
+
+
+
+
+mkvirtualenv --python=/home/ishuk/.pyenv/versions/3.6.5/bin/python enrichme
+
+
+
+
+
+
+
+
+
+
+
